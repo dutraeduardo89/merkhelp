@@ -1,0 +1,15 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.log
+
+# Next.js / Node
+node_modules/
+.next/
+out/
+build/
+.env
+.env.local
+.DS_Store
