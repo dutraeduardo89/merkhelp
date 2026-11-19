@@ -1,0 +1,21 @@
+services:
+  merkhelp-db:
+    image: postgres:16-alpine
+    container_name: merkhelp-db
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: MerkHelp@2024
+      POSTGRES_DB: merkhelp
+    ports:
+      - "5434:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - merkhelp-network
+
+volumes:
+  pgdata:
+
+networks:
+  merkhelp-network:
+    driver: bridge

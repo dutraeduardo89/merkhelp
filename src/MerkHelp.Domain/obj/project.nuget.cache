@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "64R70t1bbws=",
+  "success": true,
+  "projectFilePath": "/home/desenvolvedor/projetos/merkhelp/src/MerkHelp.Domain/MerkHelp.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/desenvolvedor/.nuget/packages/microsoft.netcore.app.ref/9.0.23/microsoft.netcore.app.ref.9.0.23.nupkg.sha512",
+    "/home/desenvolvedor/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.23/microsoft.aspnetcore.app.ref.9.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

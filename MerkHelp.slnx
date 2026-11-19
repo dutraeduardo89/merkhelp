@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MerkHelp.Api/MerkHelp.Api.csproj" />
+    <Project Path="src/MerkHelp.Application/MerkHelp.Application.csproj" />
+    <Project Path="src/MerkHelp.Domain/MerkHelp.Domain.csproj" />
+    <Project Path="src/MerkHelp.Infrastructure/MerkHelp.Infrastructure.csproj" />
+  </Folder>
+</Solution>
